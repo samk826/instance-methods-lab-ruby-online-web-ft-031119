@@ -8,7 +8,7 @@ end
 fido= Dog.new
 fido.bark
 
-def sit
+def blah
   puts "sit"
 end
 
