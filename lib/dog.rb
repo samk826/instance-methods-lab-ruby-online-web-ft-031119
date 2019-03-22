@@ -10,7 +10,7 @@ fido.bark
 
 def sit
   puts "The Dog is sitting"
-
+end
 
 sam=Dog.new
 sam.sit
