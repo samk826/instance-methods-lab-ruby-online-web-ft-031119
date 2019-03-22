@@ -12,5 +12,5 @@ def sit
   puts "sit"
 end
 
-fido=Dog.new
+Dog.new
 fido.sit
