@@ -13,4 +13,4 @@ def blah
 end
 
 fido=Dog.new
-fido.blah
+fido.sit
