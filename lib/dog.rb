@@ -11,3 +11,6 @@ fido.bark
 def sit
   puts "sit"
 end
+
+fido.new
+fido.sit
