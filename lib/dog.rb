@@ -5,12 +5,12 @@ def bark
 end
 end
 
- Dog.new
-Dog.bark
+fido= Dog.new
+fido.bark
 
 def sit
   puts "The Dog is sitting"
 end
 
-Dog.new
-Dog.sit
+sam=Dog.new
+sam.sit
