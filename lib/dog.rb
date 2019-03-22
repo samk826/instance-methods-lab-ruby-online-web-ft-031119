@@ -11,5 +11,3 @@ fido.bark
 def sit
   puts "sit"
 end
-
-fido.sit
